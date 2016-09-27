@@ -3,4 +3,6 @@
     <string name = "intro">This exercise demonstates the: Activity life-cycle callback methods, views referencing, and on-click handler</string>
     <string name="fill">Name:</string>
     <string name="button">Try me!</string>
+    <string name="emptyName">[%1$d]Wait! you should first enter your name above</string>
+    <string name="emptyName2">[%1$d]welcome %2$s this is your first java coding experience in android. congratulations!!!</string>
 </resources>
